@@ -1,0 +1,19 @@
+.barra{
+	background-color: #cc2a36;
+}
+a, h1, h4{
+	color: #fff;
+}
+.creamy{
+	font-family: 'Merriweather', serif;
+}
+.open{
+	font-family: 'Open Sans', sans-serif
+
+}
+.container-fluid{
+	background-image: url("../img/creamy.jpg");
+	background-position: center;
+    background-repeat: no-repeat;
+    
+}
